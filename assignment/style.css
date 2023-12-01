@@ -13,8 +13,7 @@ main{
 /* Align the h1 containing your name in the center of the header*/
 h1{
     text-align: center;
-    margin: 0;
-    padding: 0;
+   
 }
 /* Make your p tag a different color and italic */
 p{
@@ -25,6 +24,7 @@ p{
 img{
     border-style: solid;
     border-color: black;
+    margin: 1%;
 }
 
 /* Change the font-family of your list */
@@ -36,11 +36,8 @@ ul{
 /* Add a background color to the footer element */
 footer{
     background-color: maroon;
-    margin: 0;
-    padding: 0;
+
 }
 h2{
     color: black;
-    margin: 0;
-    padding: 0;
 }
